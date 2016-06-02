@@ -3,9 +3,9 @@
     <defaultLandingTab>Vehicle__c</defaultLandingTab>
     <label>Garage</label>
     <tab>standard-Chatter</tab>
-    <tab>   standard-File</tab>
+    <tab>standard-File</tab>
     <tab>Vehicle__c</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
-    <tab>Student__c  </tab>
+    <tab>Student__c</tab>
 </CustomApplication>

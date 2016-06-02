@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>36.0</version>
     <types>
         <members>ApexTest1</members>
         <members>OlderAccountsUtility</members>
         <members>Sample</members>
-        <members>Welcome</members>
         <members>c3</members>
         <members>pone</members>
         <members>simplegetset</members>
@@ -13,8 +11,6 @@
     </types>
     <types>
         <members>c3</members>
-        <members>p1</members>
-        <members>test1</members>
         <name>ApexPage</name>
     </types>
     <types>
@@ -502,6 +498,14 @@
         <name>Role</name>
     </types>
     <types>
+        <members>Account.Billing</members>
+        <members>Campaign.ViewCampaignInfluenceReport</members>
+        <members>Case.UpsellCrosssellOpportunity</members>
+        <members>Contact.Google_Info</members>
+        <members>Opportunity.DeliveryStatus</members>
+        <name>WebLink</name>
+    </types>
+    <types>
         <members>Account</members>
         <members>Activities</members>
         <members>Address</members>
@@ -527,12 +531,5 @@
         <members>Security</members>
         <name>Settings</name>
     </types>
-    <types>
-        <members>Account.Billing</members>
-        <members>Campaign.ViewCampaignInfluenceReport</members>
-        <members>Case.UpsellCrosssellOpportunity</members>
-        <members>Contact.Google_Info</members>
-        <members>Opportunity.DeliveryStatus</members>
-        <name>WebLink</name>
-    </types>
+    <version>36.0</version>
 </Package>

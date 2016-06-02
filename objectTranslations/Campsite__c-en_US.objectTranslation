@@ -2,7 +2,7 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value>     Campsite</value>
+        <value>Campsite</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
@@ -10,7 +10,7 @@
     </caseValues>
     <fields>
         <label><!-- Description --></label>
-        <name>  Description__c</name>
+        <name>Description__c</name>
     </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

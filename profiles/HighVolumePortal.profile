@@ -66,15 +66,15 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>ApexTest1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>OlderAccountsUtility</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>Sample</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>Welcome</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -1572,14 +1572,6 @@
     </objectPermissions>
     <pageAccesses>
         <apexPage>c3</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
-        <apexPage>p1</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
-        <apexPage>test1</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
     <recordTypeVisibilities>
