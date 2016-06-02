@@ -9,7 +9,7 @@
             <criteriaItems>
                 <field>Account.BillingCountry</field>
                 <operation>equals</operation>
-                <value>US,USA,United States,United States of America</value>
+                <value>      US,USA,United States,United States of America</value>
             </criteriaItems>
             <criteriaItems>
                 <field>Account.SLA__c</field>
@@ -17,7 +17,7 @@
                 <value>Gold,Platinum</value>
             </criteriaItems>
             <criteriaItems>
-                <field>Account.Type</field>
+                <field>             Account.Type</field>
                 <operation>contains</operation>
                 <value>Customer</value>
             </criteriaItems>
