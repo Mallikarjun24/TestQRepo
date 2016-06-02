@@ -10,7 +10,7 @@
     </caseValues>
     <fields>
         <label><!-- Description --></label>
-        <name>Description__c</name>
+        <name>  Description__c</name>
     </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
